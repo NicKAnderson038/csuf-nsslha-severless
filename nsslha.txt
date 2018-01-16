@@ -1,0 +1,15 @@
+name
+
+email
+
+phone 
+
+are u a nsslha member?
+
+are u a CSHA member?
+
+Will you attend the csap advent?
+
+if(yes){
+	full advent 4x day, patient advent 2x day, single day 1x day
+}
