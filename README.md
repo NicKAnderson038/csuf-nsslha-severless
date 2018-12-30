@@ -9,7 +9,7 @@
 ## FYI
 
 ```bash
-# don't froget to JSON.stringify(data) in the response body!!
+# don't forget to JSON.stringify(data) in the response body!!
 
 # and client side: body: JSON.stringify(data) for posting!!
 
